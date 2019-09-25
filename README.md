@@ -3,6 +3,12 @@
 This is a simple program that counts up the number of times you undo in Clip
 Studio Paint.
 
+## Why?
+
+My friend [EternalMasque](https://www.twitch.tv/eternalmasque) is a streamer
+that does art. She wanted to track the number of times she undoes when she draws
+and show that number on stream. This undo tracker does exactly that.
+
 ## Install
 
 1.  Download & Install [AutoHotKey](https://www.autohotkey.com/)
