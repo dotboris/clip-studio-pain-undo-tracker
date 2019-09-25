@@ -4,10 +4,10 @@ outFile := A_ScriptDir . "/undo-count.txt"
 undoCount := 0
 
 if (FileExist(outFile)) {
-    FileRead, undoCountText, %outFile%
-    undoCount := undoCountText + 0
+  FileRead, undoCountText, %outFile%
+  undoCount := undoCountText + 0
 } else {
-    FileAppend, 0, %outFile%
+  FileAppend, 0, %outFile%
 }
 
 #IfWinActive, CLIP STUDIO PAINT
