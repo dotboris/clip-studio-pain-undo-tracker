@@ -18,6 +18,17 @@ on `undo-tracker.ahk`.
 The undo tracker will count the number of times you undo in Clip Studio Paint
 and write that to a text file called `undo-count.txt`.
 
+### Closing the program
+
+Once you start the Undo Tracker, it will run in the background. To close it,
+look in your system tray for an icon that looks like the letter `H`. Right click
+on that and choose Quit from the menu.
+
+### Resetting the counter
+
+To reset the counter, just delete the `undo-count.txt` file and double clikc on
+`undo-tracker.ahk`.
+
 ## Caveats
 
 This program only tracks undos that are done using the <kbd>CTRL</kbd> +
