@@ -35,6 +35,16 @@ on that and choose Quit from the menu.
 To reset the counter, just delete the `undo-count.txt` file and double clikc on
 `undo-tracker.ahk`.
 
+## Integrating with Streaming Software
+
+This should work with any streaming software that supports displaying text from
+a file and periodically refreshing it.
+
+### OBS
+
+Add a text layer and configure it to read from a file. Point it to the
+`undo-count.txt` file.
+
 ## Caveats
 
 This program only tracks undos that are done using the <kbd>CTRL</kbd> +
