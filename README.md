@@ -13,7 +13,7 @@ and show that number on stream. This undo tracker does exactly that.
 
 1.  Download & Install [AutoHotKey](https://www.autohotkey.com/)
 1.  Download the [Undo Tracker](https://github.com/dotboris/clip-studio-pain-undo-tracker/archive/master.zip)
-1.  Unzip `master.zip`
+1.  Unzip the file you just downloaded
 
 ## Usage
 
