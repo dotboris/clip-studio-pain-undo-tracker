@@ -6,8 +6,8 @@ Studio Paint.
 ## Install
 
 1.  Download & Install [AutoHotKey](https://www.autohotkey.com/)
-1.  Download the Undo Tracker (TODO: link to source download)
-1.  Unzip `todo-path-to-source.zip`
+1.  Download the [Undo Tracker](https://github.com/dotboris/clip-studio-pain-undo-tracker/archive/master.zip)
+1.  Unzip `master.zip`
 
 ## Usage
 
