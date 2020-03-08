@@ -32,7 +32,7 @@ on that and choose Quit from the menu.
 
 ### Resetting the counter
 
-To reset the counter, just delete the `undo-count.txt` file and double clikc on
+To reset the counter, just delete the `undo-count.txt` file and double click on
 `undo-tracker.ahk`.
 
 ## Integrating with Streaming Software
